@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="za.org.speakupmzansi.app" version="0.0.1"
+    xmlns="http://www.w3.org/ns/widgets"
+    xmlns:gap= "http://phonegap.com/ns/1.0"
+    xmlns:cdv="http://cordova.apache.org/ns/1.0">
+
+    <name>Speak Up</name>
+    <description>
+        Building better conversations between citizens and their leaders.
+    </description>
+    <author email="info@speakupmzansi.org.za" href="http://speakupmzansi.org.za/">
+        Speak Up Mzansi
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+
+    <gap:plugin name="com.phonegap.plugin.statusbar" version="1.1.0" />
+</widget>
