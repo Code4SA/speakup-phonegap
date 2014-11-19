@@ -1,0 +1,7 @@
+/.config
+/pkg/
+/test/tmp/
+/test/version_tmp/
+/tmp/
+/platforms
+/plugins
