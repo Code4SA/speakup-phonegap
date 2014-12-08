@@ -13,6 +13,7 @@
     </author>
     <content src="index.html" />
     <access origin="*" />
+    <icon src="img/icon.png" />
 
     <gap:plugin name="com.phonegap.plugin.statusbar" version="1.1.0" />
 </widget>
