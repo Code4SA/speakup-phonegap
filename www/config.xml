@@ -15,5 +15,8 @@
     <access origin="*" />
     <icon src="img/icon.png" />
 
+    <!-- we don't need any permissions beyond internet access -->
+    <preference name="permissions" value="none"/>
+
     <gap:plugin name="com.phonegap.plugin.statusbar" version="1.1.0" />
 </widget>
