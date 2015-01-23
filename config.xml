@@ -14,6 +14,8 @@
     <content src="index.html" />
     <access origin="*" />
 
+    <icon src="icons/icon.png" />
+
     <!-- splash screens. see http://docs.build.phonegap.com/en_US/configuring_icons_and_splash.md.html -->
     <gap:splash src="splash.png" />
 
